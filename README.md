@@ -56,15 +56,4 @@ I’m passionate about building scalable systems, understanding good architectur
 
 ---
 
-## 📊 GitHub Stats
-
-<div>
-<a href="https://github.com/kaio-andrade">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaio-andrade&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-andrade&layout=compact&theme=tokyonight"/>
-</a>
-</div>
-
----
-
 ✨ Always learning, always building.
